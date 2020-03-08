@@ -22,8 +22,15 @@ h1 {
 #start_game {
     height: 50px;
     width: 200px;
-    font-size: 30px;
+    font-size: 20px;
     background-color: coral;
+}
+
+#play_ai {
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    background-color: cornflowerblue;
 }
 
 .button_row {
