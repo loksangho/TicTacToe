@@ -1,0 +1,41 @@
+#game_container {
+    display: block;
+}
+
+.game_board_cell {
+    display: inline-block;
+    width: 30vw;
+    height: 30vw;
+    background-color: cadetblue;
+    text-align: center;
+    line-height: 30vw;
+    font-family: 'Rubik', sans-serif;
+    font-size: 30vw;
+    vertical-align: top;
+    border:1px solid gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+#start_game {
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    background-color: coral;
+}
+
+.button_row {
+    padding-bottom: 30px;
+}
+
+#player1_name_display, #player2_name_display {
+    display:none;
+}
+
+#game_message {
+    text-align: center;
+    font-size: 50px;
+}
+
